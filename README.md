@@ -2,7 +2,7 @@
 
 A list of shortcut for working on remote projects
 
-## tmux
+## Tmux
 
 ### new session
 
