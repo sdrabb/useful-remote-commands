@@ -15,4 +15,15 @@ tmux new -s myname
 ```
 tmux a -t myname
 ```
+### scroll in a session
+
+```
+ctrl + b and press [
+```
+
+### detach from a session
+
+```
+ctrl + b and press d
+```
 
